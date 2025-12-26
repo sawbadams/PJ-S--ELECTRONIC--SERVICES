@@ -126,7 +126,7 @@ We focus on quality workmanship, reliable technology, and customer satisfaction.
 
 <section id="contact">
 <h2>Contact Us</h2>
-<p><strong>Phone:</strong> 876-XXX-XXXX</p>
+<p><strong>Phone:</strong> 876-536-1837</p>
 <p><strong>Email:</strong> pjsmartelectronic@gmail.com</p>
 <p><strong>Location:</strong> Kingston, Jamaica</p>
 <button>Request a Quote</button>
